@@ -1,4 +1,4 @@
-<h1 align="center">Hey Bubbles, my name is Duckie</h1>
+<h1 align="center">Hi Bubbles, my name is Duckie</h1>
 <h3 align="center">A human in this same planet as you probably are</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duckie4u&label=Profile%20views&color=0e75b6&style=flat" alt="duckie4u" /> </p>
